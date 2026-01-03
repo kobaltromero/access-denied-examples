@@ -1,0 +1,6 @@
+{
+  "disabledDimensions": [
+    "minecraft:the_end"
+  ],
+  "action": "break_portal"
+}
