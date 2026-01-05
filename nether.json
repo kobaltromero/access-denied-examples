@@ -1,0 +1,40 @@
+{
+  "dimension": "minecraft:the_nether",
+  "blocksBroken": 35,
+  "blocksPlaced": 70,
+  "xpLevel": 30,
+  "playerKills": 3,
+  "mobKills": 10,
+  "playTime": 300,
+  "itemsKey": [
+    "minecraft:diamond" : true,
+    "minecraft:netherite_sword" : true
+  ],
+  "effects": [
+    "minecraft:strength",
+    "minecraft:invisibility"
+  ],
+  "health": 20,
+  "deaths": 1,
+  "chance": 50,
+  "advancements": [
+    "minecraft:story/follow_ender_eye",
+    "minecraft:adventure/kill_a_mob"
+  ],
+  "jumps": 75,
+  "timesFished": 12,
+  "ftbQuestIds": [
+    "questId1",
+    "questId2"
+  ],
+  "jumps": 50,
+  "timesFished": 3,
+  "mobBounties": {
+    "minecraft:cow": 5,
+    "minecraft:zombie": 14
+  },
+  "blockBounties": {
+    "minecraft:glass": 10,
+    "minecraft:end_stone": 64
+  }
+}
